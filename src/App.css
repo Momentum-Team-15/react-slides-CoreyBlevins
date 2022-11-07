@@ -1,0 +1,28 @@
+.slide {
+    width: 70%;
+    margin: 20px auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+.title {
+    text-align: center;
+}
+.info {
+    display: flex;
+}
+.image {
+    height: 500px;
+    width: 300px;
+}
+.description {
+    text-align: center;
+    padding: 20px;
+}
+.buttons {
+    text-align: center;
+}
+.btn {
+    background: rgb(130, 167, 203);
+    padding: 15px;
+    margin: 0 20px;
+}
